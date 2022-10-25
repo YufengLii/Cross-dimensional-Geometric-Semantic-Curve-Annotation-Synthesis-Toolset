@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -O3 -rdynamic CMakeFiles/TransformOBJ.dir/src/main.cc.o CMakeFiles/TransformOBJ.dir/src/camera.cc.o CMakeFiles/TransformOBJ.dir/src/mesh.cc.o -o TransformOBJ  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmpfr.so /usr/local/lib/libgmp.so -pthread 

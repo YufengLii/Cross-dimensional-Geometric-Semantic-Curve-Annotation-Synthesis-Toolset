@@ -1,0 +1,3 @@
+/remote-home/share/StructureParsingDataset/ToolBox/TransfromOBJWithExtrinsic/build/CMakeFiles/TransformOBJ.dir
+/remote-home/share/StructureParsingDataset/ToolBox/TransfromOBJWithExtrinsic/build/CMakeFiles/edit_cache.dir
+/remote-home/share/StructureParsingDataset/ToolBox/TransfromOBJWithExtrinsic/build/CMakeFiles/rebuild_cache.dir
