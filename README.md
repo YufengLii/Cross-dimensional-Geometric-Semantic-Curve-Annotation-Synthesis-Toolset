@@ -20,7 +20,7 @@
 
 ### 1. Render 
 
-![](./configs/asserts/render demodata2.png)
+![](./configs/asserts/renderdemodata2.png)
 
 In the rendering part, rgb images and depth maps are generated according to the Mesh model and texture files. The original 3D future dataset provides a rendering script based on blender. The internal and external parameters of the camera are converted and output in the cv coordinate system, so that all operations on the same set of data are based on the same camera parameters.
 
@@ -57,7 +57,7 @@ Rotate and translate the mesh model according to the external parameters of the 
 
 ### 3. Generate Contour SVG
 
-![](./configs/asserts/Generated Anno.png)
+![](./configs/asserts/GeneratedAnno.png)
 
 **Non-photorealistic rendering** (**NPR**) is an area of [computer graphics](https://en.wikipedia.org/wiki/Computer_graphics) that focuses on enabling a wide variety of expressive [styles](https://en.wikipedia.org/wiki/Style_(visual_arts)) for digital art, in contrast to traditional [computer graphics](https://en.wikipedia.org/wiki/Computer_graphics), which focuses on [photorealism](https://en.wikipedia.org/wiki/Photorealism). NPR is inspired by other artistic modes such as [painting](https://en.wikipedia.org/wiki/Painting), [drawing](https://en.wikipedia.org/wiki/Drawing), [technical illustration](https://en.wikipedia.org/wiki/Technical_illustration), and [animated cartoons](https://en.wikipedia.org/wiki/Animated_cartoons). NPR has appeared in [movies](https://en.wikipedia.org/wiki/Film) and [video games](https://en.wikipedia.org/wiki/Video_game) in the form of [cel-shaded animation](https://en.wikipedia.org/wiki/Cel_shading) (also known as "[toon](https://en.wikipedia.org/wiki/Cartoon)" shading) as well as in [scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization), [architectural illustration](https://en.wikipedia.org/wiki/Architectural_illustration) and [experimental animation](https://en.wikipedia.org/wiki/Experimental_animation). We have modified two open source non-photorealistic rendering methods  ( [trianglemesh](https://github.com/zddhub/trianglemesh)
 [Syndraw](https://gitlab.inria.fr/D3/contour-detect) ) to suit our needs. 
