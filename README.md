@@ -11,8 +11,7 @@
 ​	In order to endow robots with visual perception capabilities similar to human "spatial pathways", we constructed Geometric Structure Semantic Understanding Dataset based on non-realistic rendering technology, which can be used for "structural semantic extraction", "pose estimation", "CAD" Retrieval”, “3D Modeling”, “Robot Active Perception” and other researches.
 
 ## Dataset Abstract
-
-**待完成**
+The NPR algorithms provide deep insight into the geometry and topology of line drawings. By combining NPR and crowdsourcing technology, we realized the semi-automatic generation of structural sketches from CAD models and established the SSU dataset. The development of the dataset includes several processes, including image rendering, model cleaning, NPR sketch generation, contour fusion, correction, and manual crowd-source screening. The original data is obtained from the 3D future dataset, which is a richly-annotated and large-scale repository of 3D furniture shapes in a household scenario. In total, 9,992 unique industrial 3D CAD models were used to generate initial annotation data, with 12 camera intrinsic matrixes. Subsequently, 5,368 pairs of data that were carefully selected, out of which 4,768 images were used for training and the remainder were used for testing. We then used the standard data augmentation procedure to expand the diversity of the training samples. 
 
 **网盘链接**
 
