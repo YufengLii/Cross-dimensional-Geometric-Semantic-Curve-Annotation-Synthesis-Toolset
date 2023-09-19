@@ -1,4 +1,4 @@
-![image](https://github.com/YufengLii/SUUDataset/assets/20610638/072caf80-17d9-4571-a0c2-720c924e2ac4)![image](https://github.com/YufengLii/SUUDataset/assets/20610638/fbe7f7b9-e745-48a1-85a6-04e561c0c66c)# Geometric Structure Semantic Understanding Dataset Toolbox
+![image](https://github.com/YufengLii/SUUDataset/assets/20610638/dd882aec-59dd-43d6-a8af-75fb8a8e392a)![image](https://github.com/YufengLii/SUUDataset/assets/20610638/072caf80-17d9-4571-a0c2-720c924e2ac4)![image](https://github.com/YufengLii/SUUDataset/assets/20610638/fbe7f7b9-e745-48a1-85a6-04e561c0c66c)# Geometric Structure Semantic Understanding Dataset Toolbox
 
 
 
@@ -21,6 +21,20 @@ The NPR algorithms provide deep insight into the geometry and topology of line d
 |  Datasets   | Is 2d Edge Aligned?  | Is 3d geometry Aligned? | Annotation data format | Is it a parametric line? | Data labeling basis | Are there multiple objects in a single image? | Does it have a corresponding RGB image? | Does it have a corresponding 3d mesh model? | Real or synthetic datasets |  Research field originally used |
 | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: | :----: | :----: | 
 | Wireframe | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| SceneCity | &check | partly (linear structure in rgb space) | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
 | YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
 
 
