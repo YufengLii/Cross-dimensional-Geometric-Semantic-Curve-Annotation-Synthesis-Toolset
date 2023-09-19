@@ -38,7 +38,7 @@ The NPR algorithms provide deep insight into the geometry and topology of line d
 |Pro-skectch-3d	|&#10004;|	&#10004;	（Linear and non-linear structural lines in 3d geometry）	|Vector image	|&#10004;	|3d mesh and viewpoints	|chair|	&#10004;|	&#10004;	|synthetic|	Model retrieval|							
 |The Anime Colorization dataset|	&#10004;|	X|	bitmap|	X	|human drawings |	anime characters|	&#10004;	|X|	synthetic	|sketch generation|
 |SketchyScene|	X|	X|	bitmap|	X	|human drawings |		&#10004;	|	&#10004;|X|synthetic|	sketch generation|
-|ours	|&#10004;|&#10004;	|paths|&#10004;|3d mesh and viewpoint（Linear and non-linear structural lines in 3d geometry）	|&#10004;	|&#10004;|&#10004;	|synthetic	|Scene structure parsing
+|ours	|&#10004;|&#10004;	|paths|&#10004;|3d mesh and viewpoint（Linear and non-linear structural lines in 3d geometry）	|&#10004;	|&#10004;|&#10004;	|synthetic	|Scene structure parsing |
 
 
 
