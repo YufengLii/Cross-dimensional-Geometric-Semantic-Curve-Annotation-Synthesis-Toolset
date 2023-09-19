@@ -22,20 +22,23 @@ The NPR algorithms provide deep insight into the geometry and topology of line d
 | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: | :----: | :----: | 
 | Wireframe |  &#10004; | X | 2d line segments |  &#10004; | Rgb values |  &#10004; |  &#10004; | X | Real | 2d wiregframe detection |
 | YorkUrban | &#10004; | X | 2d line segments | &#10004; | Rgb values |  &#10004; |  &#10004; |  X | Real | 2d wiregframe detection |
-| SceneCity | &#10004; | partly (linear structure in rgb space) | 3d line segments and 2d line segments | &#10004; | 3d mesh and viewpoints| &#10004 | &#10004 | &#10004; | synthetic| 3d wiregframe detection |
-| YorkUrban | &#10004; | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &#10004; | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| SceneCity | &#10004; | partly (linear structure in rgb space) | 3d line segments and 2d line segments | &#10004; | 3d mesh and viewpoints| &#10004; | &#10004; | &#10004; | synthetic| 3d wiregframe detection |
+| MegaWireframe	|  &#10004; |	partly	3d line segments and 2d line segments | 3d line segments and 2d line segments |  &#10004;	| 3d mesh and viewpoints | &#10004;	|  &#10004; |	 &#10004; |	Real |3d wireframe detection|
+|BIPED	| &#10004;	|X	|bitmap	|X|	Rgb |values	| &#10004;|	 &#10004;	|X|	Real|	Edge detection|
+|BSDS500|	&#10004;		|X|	bitmap|	X|	Rgb |values|	&#10004;		|&#10004;	|X	|Real	|Edge detection|
+|Contour Drawing	|roughly|	X	|bitmap|	X	|human drawings |&#10004;|&#10004;|	X	|Real|	sketch generation|
+|Sketchy	|X	|X	|bitmap	|X|	human drawings| 	X	|&#10004;	|X	|Real	|Sketch-based image retrieval|
+|TU-Berlin	|X|	X	|bitmap|X|	human drawings 	|X|&#10004;|X	|Real|	Human sketch recognition|
+|rough sketch benchmark	|	X	|	X	|bitmap	|	X|	human drawings |X|noise sketch image|	X|Real|	Sketch Cleanup|									
+|QuickDraw	|	X|	X	|Vector image|		X| human drawings |		X	|	X	|	X|	synthetic	sketch recognition|
+|Style and Abstraction in Portrait Sketching| 	roughly|		X|	2d triangulated face model and bitmap|&#10004;	|Human artist Portrait drawings| 	Human face	|&#10004;	|	X	|Real|	Human face  Sketching |
+|Creative Birds and Creative Creatures|	X	|X|	bitmap	|X|	human drawings| 	Birds and Creative Creatures|	X|	X|	synthetic	|sketches generation|
+|QMUL-Shoe-Chair-V2	|X|	X|bitmap	|X|human drawings |	QMUL-Shoe-Chair-V2	|&#10004;|X	|synthetic	|sketches generation|
+|ImageNet-Sketch	|X|X|	bitmap	|X	|human drawings| 	&#10004;|	&#10004;|X|	Real	|sketch recognition|
+|Pro-skectch-3d	|&#10004;|	&#10004;	（Linear and non-linear structural lines in 3d geometry）	|Vector image	|&#10004;	|3d mesh and viewpoints	|chair|	&#10004;|	&#10004;	|synthetic|	Model retrieval|							
+|The Anime Colorization dataset|	&#10004;|	X|	bitmap|	X	|human drawings |	anime characters|	&#10004;	|X|	synthetic	|sketch generation|
+|SketchyScene|	X|	X|	bitmap|	X	|human drawings |		&#10004;	|	&#10004;|X|synthetic|	sketch generation|
+|ours	|&#10004;|&#10004;	|paths|&#10004;|3d mesh and viewpoint（Linear and non-linear structural lines in 3d geometry）	|&#10004;	|&#10004;|&#10004;	|synthetic	|Scene structure parsing
 
 
 
