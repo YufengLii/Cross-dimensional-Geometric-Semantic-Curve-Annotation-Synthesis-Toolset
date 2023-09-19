@@ -1,4 +1,4 @@
-# Geometric Structure Semantic Understanding Dataset Toolbox
+![image](https://github.com/YufengLii/SUUDataset/assets/20610638/072caf80-17d9-4571-a0c2-720c924e2ac4)![image](https://github.com/YufengLii/SUUDataset/assets/20610638/fbe7f7b9-e745-48a1-85a6-04e561c0c66c)# Geometric Structure Semantic Understanding Dataset Toolbox
 
 
 
@@ -16,6 +16,16 @@
 
 ## Dataset Abstract
 The NPR algorithms provide deep insight into the geometry and topology of line drawings. By combining NPR and crowdsourcing technology, we realized the semi-automatic generation of structural sketches from CAD models and established the SSU dataset. The development of the dataset includes several processes, including image rendering, model cleaning, NPR sketch generation, contour fusion, correction, and manual crowd-source screening. The original data is obtained from the 3D future dataset, which is a richly-annotated and large-scale repository of 3D furniture shapes in a household scenario. In total, 9,992 unique industrial 3D CAD models were used to generate initial annotation data, with 12 camera intrinsic matrixes. 12x9,992=119,904 sets of initial annotations were generated using the toolset we developed. Subsequently, 5,368 pairs of data that were carefully selected by crowdsourcing from 119,904 pairs of generated annotations, out of which 4,768 images were used for training and the remainder were used for testing. The crowdsourcing screening process was completed by hiring 9 lab classmates. We then used the standard data augmentation procedure to expand the diversity of the training samples. 
+
+
+|  Datasets   | Is 2d Edge Aligned?  | Is 3d geometry Aligned? | Annotation data format | Is it a parametric line? | Data labeling basis | Are there multiple objects in a single image? | Does it have a corresponding RGB image? | Does it have a corresponding 3d mesh model? | Real or synthetic datasets |  Research field originally used |
+| :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: | :----: | :----: | 
+
+| Wireframe | & check; | & cross; | 2d line segments | & check; | Rgb values | & check; | & check; |  & cross; | Real | 2d wiregframe detection |
+| YorkUrban | & check; | & cross; | 2d line segments | & check; | Rgb values | & check; | & check; |  & cross; | Real | 2d wiregframe detection |
+
+
+
 
 
 ## Usage
