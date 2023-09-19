@@ -20,8 +20,8 @@ The NPR algorithms provide deep insight into the geometry and topology of line d
 
 |  Datasets   | Is 2d Edge Aligned?  | Is 3d geometry Aligned? | Annotation data format | Is it a parametric line? | Data labeling basis | Are there multiple objects in a single image? | Does it have a corresponding RGB image? | Does it have a corresponding 3d mesh model? | Real or synthetic datasets |  Research field originally used |
 | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: | :----: | :----: | 
-| Wireframe | & check; | & cross; | 2d line segments | & check; | Rgb values | & check; | & check; |  & cross; | Real | 2d wiregframe detection |
-| YorkUrban | & check; | & cross; | 2d line segments | & check; | Rgb values | & check; | & check; |  & cross; | Real | 2d wiregframe detection |
+| Wireframe | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
 
 
 
