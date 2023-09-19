@@ -20,11 +20,11 @@ The NPR algorithms provide deep insight into the geometry and topology of line d
 
 |  Datasets   | Is 2d Edge Aligned?  | Is 3d geometry Aligned? | Annotation data format | Is it a parametric line? | Data labeling basis | Are there multiple objects in a single image? | Does it have a corresponding RGB image? | Does it have a corresponding 3d mesh model? | Real or synthetic datasets |  Research field originally used |
 | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: | :----: | :----: | 
-| Wireframe |  &#10004; | x | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
+| Wireframe |  &#10004; | X | 2d line segments |  &#10004; | Rgb values |  &#10004; |  &#10004; | X | Real | 2d wiregframe detection |
+| YorkUrban | &#10004; | X | 2d line segments | &#10004; | Rgb values |  &#10004; |  &#10004; |  X | Real | 2d wiregframe detection |
+| SceneCity | &#10004; | partly (linear structure in rgb space) | 3d line segments and 2d line segments | &#10004; | 3d mesh and viewpoints| &#10004 | &#10004 | &#10004; | synthetic| 3d wiregframe detection |
 | YorkUrban | &#10004; | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| SceneCity | &#10004; | partly (linear structure in rgb space) | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
 | YorkUrban | &#10004; | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
-| YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
 | YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
 | YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
 | YorkUrban | &check | &cross | 2d line segments | &check | Rgb values | &check | &check |  &cross | Real | 2d wiregframe detection |
