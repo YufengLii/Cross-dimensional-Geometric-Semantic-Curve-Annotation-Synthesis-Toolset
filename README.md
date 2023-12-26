@@ -1,4 +1,4 @@
-![image](https://github.com/YufengLii/SUUDataset/assets/20610638/dd882aec-59dd-43d6-a8af-75fb8a8e392a)![image](https://github.com/YufengLii/SUUDataset/assets/20610638/072caf80-17d9-4571-a0c2-720c924e2ac4)![image](https://github.com/YufengLii/SUUDataset/assets/20610638/fbe7f7b9-e745-48a1-85a6-04e561c0c66c)
+
 # Geometric Structure Semantic Understanding Dataset Toolbox
 
 
