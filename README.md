@@ -147,8 +147,8 @@ Rotate and translate the mesh model according to the external parameters of the 
   ```
 ### 5. synthesis based on room layout
 
-![](./configs/asserts/scene1.png)
 ![](./configs/asserts/scene2.png)
+![](./configs/asserts/scene1.png)
 
 
 
