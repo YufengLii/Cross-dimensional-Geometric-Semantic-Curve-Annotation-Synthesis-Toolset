@@ -1,5 +1,5 @@
 
-# Geometric Structure Semantic Understanding Dataset Toolbox
+# Cross-dimensional Geometric Semantic Curve Annotation Synthesis Toolset and dataset
 
 
 
